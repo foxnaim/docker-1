@@ -1,3 +1,8 @@
+> **foxnaim** · Docker Compose для развёртывания фитнес-трекера wger
+>
+> Готовая основа под клиентский проект. Стек: Python.
+> Лицензия AGPL-3.0 сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 <img src="https://raw.githubusercontent.com/wger-project/wger/master/wger/core/static/images/logos/logo.png" width="100" height="100" alt="wger logo" />
 
 
